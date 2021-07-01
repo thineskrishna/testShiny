@@ -1,0 +1,12 @@
+name: RESECT
+title: RESECT
+username:
+account: bursturology
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4093857
+bundleId: 4568743
+url: https://bursturology.shinyapps.io/RESECT/
+when: 1620370151.32492
+asMultiple: FALSE
+asStatic: FALSE

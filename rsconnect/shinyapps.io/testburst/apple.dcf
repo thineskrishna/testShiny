@@ -1,0 +1,13 @@
+name: apple
+title: apple
+username:
+account: testburst
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4063219
+bundleId: 4585241
+url: https://testburst.shinyapps.io/apple/
+when: 1620732186.16059
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: my_token.txt
